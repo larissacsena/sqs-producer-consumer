@@ -116,7 +116,7 @@ sqsClient.close();
 ```
 
 ## 4. Evidências:
-
+Mais evidências no caminho: .\SqsProducerConsumer\project_images
 ![consumer-run](https://github.com/user-attachments/assets/ac928828-a6f5-4e45-a321-d046427087e1)
 ![producer-run](https://github.com/user-attachments/assets/d665bae4-04a5-42de-8571-0b3e84cd81ad)
 
